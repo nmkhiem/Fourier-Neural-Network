@@ -1,9 +1,10 @@
 # Fourier Neural Network
  
-Testing Fourier Neural Operator for Parametric Partial Differential Equations Code
+Testing Fourier Neural Operator for High dimensional Equation
 
 # Reference:
 Paper: https://arxiv.org/abs/2010.08895
+
 Code: https://github.com/neuraloperator/neuraloperator
 
 Also I recommand for this great video explanation:
